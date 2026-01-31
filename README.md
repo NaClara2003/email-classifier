@@ -17,7 +17,7 @@ Reduzir o trabalho manual da equipe financeira através de uma interface web que
 
 - **Linguagem:** Python 3.10+
 - **Interface Web:** [Streamlit](https://streamlit.io/) (UI/UX moderna e intuitiva)
-- **IA/LLM:** OpenAI API (Modelo `gpt-4o-mini`)
+- **IA/LLM:** Google AI Studio (Modelo `gemini-1.5-flash`)
 - **Processamento de PDF:** PyPDF2
 - **Deploy:** Render / Streamlit Cloud
 
